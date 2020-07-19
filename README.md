@@ -1,0 +1,3 @@
+This repository contains SQL queries which are learned from The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert.
+
+Link: https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_77882236463_._ad_437477391738_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_9040218_._pd__._&matchtype=b&gclid=EAIaIQobChMIoLb2ia_Z6gIVj38rCh2YCA7GEAAYASAAEgK2KfD_BwE
