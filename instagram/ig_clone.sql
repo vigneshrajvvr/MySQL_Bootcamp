@@ -28,3 +28,13 @@ CREATE TABLE comment (
     FOREIGN KEY (user_id) REFERENCES user(id),
     FOREIGN KEY (photo_id) REFERENCES photo(id)
 );
+
+CREATE TABLE likes (
+    user_id INT NOT NULL,
+    photo_id INT NOT NULL,
+    created_at TIMESTAMP DEFAULT CURR(),
+    FOREIGN KEY(user_id) REFERENCES user(id),
+    FOREIGN KEY(photo_id) REFERENCES photo(id),
+    PRIMARY KEY(user_id, photo_id)
+);
+
