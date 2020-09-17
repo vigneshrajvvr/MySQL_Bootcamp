@@ -1,4 +1,4 @@
-    -- What's good use case for CHAR?
+        -- What's good use case for CHAR?
     -- If we know that data is of fixed length then we can choose CHAR. It requries length to be specified.
     
     -- Difference between DATETIME and TIMESTAMP
